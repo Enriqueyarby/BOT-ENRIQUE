@@ -49,8 +49,7 @@ Clone este proyecto
 
 ```bash
 > git clone https://github.com/TobyG74/ElainaBOT
-> cd ElainaBOT
-```
+cd wassap-bot-enrique```
 
 Instalar las dependencias:
 
