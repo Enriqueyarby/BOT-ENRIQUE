@@ -1,8 +1,8 @@
-<p align="center">
-<iframe src="https://giphy.com/embed/3og0ILLVvPp8d64Jd6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">via GIPHY</a></p>
+p align="center">
+<img src="https://giphy.com/embed/3og0ILLVvPp8d64Jd6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6"></a></p>
 </p>
 <p align="center">
-<a href="#"><img title="ENRIQUE-BOT" src="https://img.shields.io/badge/ELAINA BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ENRIQUE-BOT" src="https://img.shields.io/badge/ENRIQUE BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Enriqueyarby"><img title="Autor" src="https://img.shields.io/badge/Autor-Enrique-orange.svg?style=for-the-badge&logo=github"></a>
